@@ -1,0 +1,3 @@
+"# jhipsterkafka" 
+"# test" 
+"# rabbitmqcloudstream" 
